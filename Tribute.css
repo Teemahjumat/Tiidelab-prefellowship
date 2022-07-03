@@ -78,3 +78,26 @@ button:hover{
 .box{
     padding: 20px;
 }
+@media screen and (max-width:992px) {
+    body{
+        width: 100%;
+    }
+    
+img{
+    width: 350px;
+    height: 300px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    border-radius:  0 350px 350px 350px;
+}
+iframe{
+    margin-bottom: 40px;
+    height: auto;
+    width: auto;
+}
+
+
+.link{
+    margin: 30px;
+}
+}
